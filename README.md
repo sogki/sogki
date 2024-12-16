@@ -3,6 +3,8 @@
 I'm a 20 years old Web Developer from the UK!
 I thrive on exploring innovative solutions and collaborating with like-minded individuals to create impactful projects. I endure creativity and design and wish to have a career in the Games Industry.
 
+Passionate gaming, uninterrupted design.
+
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/soggymousepad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/soggymousepad) 
 
 ---
