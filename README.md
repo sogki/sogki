@@ -1,11 +1,23 @@
+<div id="header-txt" align=center>
+
 ### Ello! 👋 SoggyMousepad • [Jay](https://github.com/soggymousepad)
+
+</div>
+
+<div id="image" align=center>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/1810985468148122254/4102787C73BFFF073E74849C562B8ECDCAFE1432/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" height=150px width=150px>
+</div>
 
 I'm a 20 years old Web Developer from the UK!
 I thrive on exploring innovative solutions and collaborating with like-minded individuals to create impactful projects. I endure creativity and design and wish to have a career in the Games Industry.
 
 Passionate gaming, uninterrupted design.
 
+<div id="social-badges" align=center>
+
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/soggymousepad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/soggymousepad) 
+
+</div>
 
 ---
 
