@@ -1,6 +1,6 @@
 <div id="header-txt" align=center>
 
-### Ello! 👋 SoggyMousepad • [Jay](https://github.com/soggymousepad)
+### Ello! 👋 soguuh • [Jay](https://github.com/soguuh)
 
 </div>
 
@@ -8,7 +8,7 @@
 <img src="https://i.imgur.com/OVHWHX5.gif" height=150px width=250px>
 </div>
 
-I'm a 20 years old Web Developer from the UK!
+I'm a 20 years old Web Developer and Graphics Designer from the UK!
 I thrive on exploring innovative solutions and collaborating with like-minded individuals to create impactful projects. I endure creativity and design and wish to have a career in the Games Industry.
 
 Passionate gaming, uninterrupted design.
@@ -36,7 +36,7 @@ In this corner of GitHub, you'll discover a blend of my personal projects, exper
 
 <div height=400px width=500px>
   
-![](https://github-readme-stats.vercel.app/api?username=SoggyMousepad&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=SoggyMousepad&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=soguuh&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=SoggyMousepad&theme=midnight-purple&hide_border=false)<br/>
 
 </div>
 
