@@ -15,7 +15,7 @@ Passionate gaming, uninterrupted design.
 
 <div id="social-badges" align=center>
 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/soggymousepad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/soggymousepad) 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/soggsx) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/soggymousepad) 
 
 </div>
 
