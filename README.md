@@ -5,7 +5,7 @@
 </div>
 
 <div id="image" align=center>
-<img src="https://i.imgur.com/OVHWHX5.gif" height=150px width=250px>
+<img src="https://i.imgur.com/nFtNWcH.gif" height=150px width=250px>
 </div>
 
 I'm a 20 years old Web Developer and Graphics Designer from the UK!
