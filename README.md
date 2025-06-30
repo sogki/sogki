@@ -36,7 +36,7 @@ In this corner of GitHub, you'll discover a blend of my personal projects, exper
 
 <div height=400px width=500px>
   
-![](https://github-readme-stats.vercel.app/api?username=soguuh&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=SoggyMousepad&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=soggsdev&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=SoggyMousepad&theme=midnight-purple&hide_border=false)<br/>
 
 </div>
 
