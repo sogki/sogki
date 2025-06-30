@@ -1,6 +1,6 @@
 <div id="header-txt" align=center>
 
-### Ello! 👋 soggs • [Jay](https://github.com/soguuh)
+### Ello! 👋 soggs • [Jay](https://github.com/soggsdev)
 
 </div>
 
