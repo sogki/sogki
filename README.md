@@ -60,7 +60,7 @@ const sog = {
 <a href="https://twitch.tv/soggsx" target="_blank">
   <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white&style=for-the-badge" alt="Twitch" />
 </a>
-<a href="https://x.com/soggymousepad" target="_blank">
+<a href="https://x.com/soggs_" target="_blank">
   <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" alt="X" />
 </a>
 <a href="https://github.com/sogki" target="_blank">
