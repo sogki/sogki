@@ -1,10 +1,12 @@
 <div align="center">
 
-<!-- Custom calligraphy-style banner image -->
-<img src="https://i.imgur.com/7cnvMeb.png" alt="Japanese Calligraphy Banner" style="width: 100%; max-height: 180px; object-fit: cover; margin-bottom: 1rem;" />
-
 # 𓆩 こんにちは! 👋 𓆪  
 ### soggs • <a href="https://github.com/sogki" target="_blank" rel="noopener noreferrer">Jay</a>
+
+
+
+<img src="https://i.pinimg.com/736x/1c/62/00/1c62002596c985549f82d7742e865aa3.jpg" alt="Japanese Banner" style="width: 100%; max-height: 180px; object-fit: cover; margin-bottom: 1rem;" />
+
 
 </div>
 
