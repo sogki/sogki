@@ -5,7 +5,7 @@
 
 
 
-<img src="https://i.pinimg.com/736x/1c/62/00/1c62002596c985549f82d7742e865aa3.jpg" alt="Japanese Banner" style="width: 100%; max-height: 180px; object-fit: cover; margin-bottom: 1rem;" />
+<img src="https://i.pinimg.com/736x/56/a5/ff/56a5ff47998108c17681e61b6e492e45.jpg" alt="Japanese Banner" style="width: 100%; max-height: 180px; object-fit: cover; margin-bottom: 1rem;" />
 
 
 </div>
