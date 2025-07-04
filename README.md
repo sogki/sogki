@@ -23,9 +23,7 @@
 </div>
 
 <p align="center">
-I'm Jay, a 20-year-old <strong>Web Developer & Graphics Designer</strong> from the UK.<br />
-Driven by creativity, I aspire to build a career in the <strong>Games Industry</strong>.<br />
-I enjoy crafting meaningful projects and collaborating with fellow creators.
+Driven by creativity, I aspire to build a career in the <strong>Programming Industryy</strong>.<br />
 </p>
 
 ```typescript
