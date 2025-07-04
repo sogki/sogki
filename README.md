@@ -2,7 +2,7 @@
 
 # 𓆩 こんにちは! 👋 𓆪
 
-### soggs • <a href="https://github.com/sogki" target="_blank" rel="noopener noreferrer">Jay</a>
+### soggs • <a href="https://github.com/sogki" target="_blank" rel="noopener noreferrer">Sog</a>
 
 <img src="https://i.pinimg.com/736x/56/a5/ff/56a5ff47998108c17681e61b6e492e45.jpg" alt="Japanese Banner" width="100%" height="200" style="object-fit: cover; border-radius: 12px;" />
 
@@ -27,7 +27,7 @@ Driven by creativity, I aspire to build a career in the <strong>Programming Indu
 </p>
 
 ```typescript
-const jay = {
+const sog = {
   age: 20,
   location: "United Kingdom 🇬🇧",
   passion: ["Web Development", "Game Industry", "Creative Design"],
