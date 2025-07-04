@@ -23,7 +23,7 @@
 </div>
 
 <p align="center">
-Driven by creativity, I aspire to build a career in the <strong>Programming Industryy</strong>.<br />
+Driven by creativity, I aspire to build a career in the <strong>Programming Industry</strong>.<br />
 </p>
 
 ```typescript
