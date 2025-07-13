@@ -4,7 +4,7 @@
 
 ### soggs • <a href="https://github.com/sogki" target="_blank" rel="noopener noreferrer">Sog</a>
 
-<img src="https://dtmbpavjntokyaawtabc.supabase.co/storage/v1/object/sign/assets/6c0c32acbc9632ebd32eed1b43a0a86c.jpg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9hNDEyNGFmOS1mMDZlLTQ2YjctYjU4Mi02NjM2OTBiNmIyMTQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJhc3NldHMvNmMwYzMyYWNiYzk2MzJlYmQzMmVlZDFiNDNhMGE4NmMuanBnIiwiaWF0IjoxNzUxNjY5MzcyLCJleHAiOjQ5MDUyNjkzNzJ9.6Upu7buEWhOI0joFqyRVOiWokMs1onr9GlCVSqmmEOA" alt="Japanese Banner" width="100%" height="150" style="object-fit: cover; border-radius: 12px;" />
+<img src="https://i.pinimg.com/736x/f0/d4/a2/f0d4a21ae4c9d283d3b24fe7e2dfe1d0.jpg" alt="Banner" width="100%" height="250" style="object-fit: cover; border-radius: 12px;" />
 
 </div>
 
