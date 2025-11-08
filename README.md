@@ -103,27 +103,6 @@ const sog = {
 </tr>
 </table>
 
-<br />
-
-<div align="center">
-
-## 🔗 Connect
-
-</div>
-
-<div align="center">
-
-<a href="https://twitch.tv/soggsx" target="_blank">
-  <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white&style=for-the-badge" alt="Twitch" />
-</a>
-<a href="https://x.com/soggs_" target="_blank">
-  <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" alt="X" />
-</a>
-<a href="https://github.com/sogki" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</div>
 
 <br />
 
