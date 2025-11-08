@@ -4,7 +4,7 @@
 
 ### soggs • <a href="https://sogki.dev" target="_blank" rel="noopener noreferrer">Sog</a>
 
-<img src="https://i.pinimg.com/736x/05/ed/e6/05ede638b5461ebe10a507a4fea50419.jpg" alt="Banner" width="100%" style="object-fit: cover; border-radius: 12px;" />
+<img src="https://i.pinimg.com/736x/ca/9d/7f/ca9d7f5d9948556f8a286301fa4b9fe4.jpg" alt="Banner" width="100%" style="object-fit: cover; border-radius: 12px;" />
 
 </div>
 
