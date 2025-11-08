@@ -1,6 +1,6 @@
 <div align="center">
 
-# 𓆩 こんにちは! 👋 𓆪
+# こんにちは! 👋
 
 ### soggs • <a href="https://sogki.dev" target="_blank" rel="noopener noreferrer">Sog</a>
 
@@ -8,23 +8,17 @@
 
 </div>
 
-<div align="center">
-
-## ◈ ❋ ◇ ✦ 〜 桜 〜 ✦ ◇ ❋ ◈
-
-</div>
-
----
+<br />
 
 <div align="center">
 
-## 🌸 自己紹介 (About Me) 🌸
+## 🌸 About Me
 
 </div>
 
-<p align="center">
-Driven by creativity, I aspire to build a career in the <strong>Programming Industry</strong>.<br />
-</p>
+<div align="center">
+
+Driven by creativity, I aspire to build a career in the **Programming Industry**.
 
 ```typescript
 const sog = {
@@ -37,25 +31,87 @@ const sog = {
 };
 ```
 
-<div align="center">
-
-> **「七転び八起き」**  
-> _"Fall seven times, stand up eight."_  
-> — A motto for persistence in coding and life.
+> **「七転び八起き」** — _"Fall seven times, stand up eight."_  
+> A motto for persistence in coding and life.
 
 </div>
 
----
+<br />
 
 <div align="center">
 
-## ◈ ❋ ◇ ✦ 〜 Connect 〜 ✦ ◇ ❋ ◈
+## 📊 GitHub Analytics
 
 </div>
 
 <div align="center">
 
-### 🌐 オンラインで見つける (Find Me Online) 🌐
+<img src="https://github-readme-stats.vercel.app/api?username=sogki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=9D4EDD&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sogki&theme=tokyonight&hide_border=true&background=0D1117&stroke=8A2BE2&ring=9D4EDD&fire=8A2BE2&currStreakLabel=9D4EDD" alt="GitHub Streak" />
+
+</div>
+
+<br />
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sogki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sogki&theme=tokyo-night&bg_color=0D1117&color=9D4EDD&line=8A2BE2&point=7C3AED&area=true&hide_border=true" alt="Activity Graph" />
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,java,php,postgres&theme=dark" />
+
+</td>
+<td align="center" width="33%">
+
+### Frameworks & Platforms
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite&theme=dark" />
+
+</td>
+<td align="center" width="33%">
+
+### Tools & Design
+
+<img src="https://skillicons.dev/icons?i=git,github,photoshop,figma&theme=dark" />
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<div align="center">
+
+## 🔗 Connect
+
+</div>
+
+<div align="center">
 
 <a href="https://twitch.tv/soggsx" target="_blank">
   <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white&style=for-the-badge" alt="Twitch" />
@@ -69,115 +125,23 @@ const sog = {
 
 </div>
 
----
+<br />
 
 <div align="center">
 
-## 📊 GitHub Analytics
-
-_～ My coding journey ～_
-
-<img src="https://github-readme-stats.vercel.app/api?username=sogki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=9D4EDD&text_color=C9D1D9" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sogki&theme=tokyonight&hide_border=true&background=0D1117&stroke=8A2BE2&ring=9D4EDD&fire=8A2BE2&currStreakLabel=9D4EDD" alt="GitHub Streak" />
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ ❋ ◇ ✦ 〜 Tech Arsenal 〜 ✦ ◇ ❋ ◈
-
-_～ My technology stack ～_
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### ⚙️ **プログラミング言語**
-
-**_(Programming Languages)_**
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,java,php,postgres&theme=dark" />
-
-</td>
-<td align="center" width="33%">
-
-### 🚀 **フレームワーク＆プラットフォーム**
-
-**_(Frameworks & Platforms)_**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite&theme=dark" />
-
-</td>
-<td align="center" width="33%">
-
-### 🛠️ **ツール＆デザイン**
-
-**_(Tools & Design)_**
-
-<img src="https://skillicons.dev/icons?i=git,github,photoshop,figma&theme=dark" />
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 📈 Activity Graph
-
-_～ Daily progress ～_
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sogki&theme=tokyo-night&bg_color=0D1117&color=9D4EDD&line=8A2BE2&point=7C3AED&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🚧 現在のプロジェクト (Current Projects) 🚧
-
-_～ Work in progress ～_
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sogki&repo=placeholder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=9D4EDD&text_color=C9D1D9" />
-</a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sogki&repo=placeholder2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=9D4EDD&text_color=C9D1D9" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ ❋ ◇ ✦ 〜 桜 〜 ✦ ◇ ❋ ◈
-
-### ✨ ありがとうございました ✨
+### ありがとうございました ✨
 
 _Thank you for visiting my profile!_
+
+<br />
 
 <img src="https://komarev.com/ghpvc/?username=sogki&style=for-the-badge&color=8A2BE2" alt="Profile Views" />
 
 <img src="https://img.shields.io/badge/Made_with-❤️_and_☕-8A2BE2?style=for-the-badge" />
 
-</div>
+<br />
+<br />
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&size=16&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=400&lines=Happy+coding!+💜;Let's+build+something+amazing!+✨;一緒に頑張りましょう!" alt="Footer Typing SVG" />
-
-</div>
-
-<div align="center">
-
-## 🌸 ◊ ❋ ◇ ✧ ◈ ✧ ◇ ❋ ◊ 🌸
+<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&size=18&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Happy+coding!+💜;Let's+build+something+amazing!+✨;一緒に頑張りましょう!" alt="Footer Typing SVG" />
 
 </div>
