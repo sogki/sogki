@@ -22,7 +22,7 @@ Driven by creativity, I aspire to build a career in the **Programming Industry**
 
 ```typescript
 const sog = {
-  age: 20,
+  age: 21,
   location: "United Kingdom 🇬🇧",
   passion: ["Web Development", "Game Industry", "Creative Design"],
   currentFocus: "Building meaningful digital experiences",
