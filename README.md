@@ -1,126 +1,86 @@
 <div align="center">
+  <img
+    src="https://i.pinimg.com/1200x/87/34/ba/8734badeb97842541cf0b12881ca34b5.jpg"
+    alt="Umbreon"
+    width="860"
+  />
 
-# こんにちは! 👋
+  <br /><br />
 
-### soggs • <a href="https://sogki.dev" target="_blank" rel="noopener noreferrer">Sog</a>
+  <sup>ソフトウェアエンジニア · デザイナー</sup>
 
-<img src="https://i.pinimg.com/736x/ca/9d/7f/ca9d7f5d9948556f8a286301fa4b9fe4.jpg" alt="Banner" width="100%" style="object-fit: cover; border-radius: 12px;" />
+  # Sogki
 
+  Full-stack engineer shipping production products end-to-end
+
+  <a href="https://sogki.dev">sogki.dev</a>
+  ·
+  <a href="https://github.com/sogki">github</a>
 </div>
 
 <br />
 
 <div align="center">
-
-## 🌸 About Me
-
+  <sup>私について</sup>
+  <h3>About</h3>
 </div>
 
-<div align="center">
+I'm Sogki (Jay) — a self-taught full-stack engineer focused on products people actually come back to. I design and build the full slice: data models, APIs, frontend UX, and the visual identity that holds it together.
 
-Driven by creativity, I aspire to build a career in the **Programming Industry**.
-
-```typescript
-const sog = {
-  age: 21,
-  location: "United Kingdom 🇬🇧",
-  passion: ["Web Development", "Game Industry", "Creative Design"],
-  currentFocus: "Building meaningful digital experiences",
-  lifePhilosophy: "七転び八起き", // Fall seven times, stand up eight
-  collaborationStyle: "Open to creative partnerships",
-};
-```
-
-> **「七転び八起き」** — _"Fall seven times, stand up eight."_  
-> A motto for persistence in coding and life.
-
-</div>
+Based in the United Kingdom. Open to creative collaborations and production builds.
 
 <br />
 
 <div align="center">
-
-## 📊 GitHub Analytics
-
+  <sup>作品</sup>
+  <h3>Selected Work</h3>
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sogki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=9D4EDD&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sogki&theme=tokyonight&hide_border=true&background=0D1117&stroke=8A2BE2&ring=9D4EDD&fire=8A2BE2&currStreakLabel=9D4EDD" alt="GitHub Streak" />
-
-</div>
-
-<br />
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sogki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sogki&theme=tokyo-night&bg_color=0D1117&color=9D4EDD&line=8A2BE2&point=7C3AED&area=true&hide_border=true" alt="Activity Graph" />
-
-</td>
-</tr>
-</table>
+- **[Binderly](https://binderlytcg.com)** — Pokémon TCG binder & collection platform with live pricing and community features
+- **[ARCPedia](https://arcpedia.net)** — Event tracker, interactive maps, item database, and raid planner
+- **[TikTok Live API](https://api.50andbad.site)** — Developer API for live status, viewer counts, and keyed access
 
 <br />
 
 <div align="center">
+  <sup>統計</sup>
+  <h3>Analytics</h3>
 
-## 🛠️ Tech Stack
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=sogki&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=E6C35C&icon_color=E6C35C&text_color=A1A1A1&ring_color=E6C35C&hide=issues&include_all_commits=true&count_private=true"
+    height="158"
+    alt="stats"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=sogki&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=E6C35C&text_color=A1A1A1&langs_count=6"
+    height="158"
+    alt="languages"
+  />
 
+  <br />
+
+  <img
+    src="https://streak-stats.demolab.com/?user=sogki&hide_border=true&background=0A0A0A&stroke=E6C35C&ring=E6C35C&fire=E6C35C&currStreakLabel=E6C35C&sideLabels=A1A1A1&dates=6B6B6B&currStreakNum=E6C35C&sideNums=A1A1A1"
+    alt="streak"
+  />
 </div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,java,php,postgres&theme=dark" />
-
-</td>
-<td align="center" width="33%">
-
-### Frameworks & Platforms
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite&theme=dark" />
-
-</td>
-<td align="center" width="33%">
-
-### Tools & Design
-
-<img src="https://skillicons.dev/icons?i=git,github,photoshop,figma&theme=dark" />
-
-</td>
-</tr>
-</table>
-
 
 <br />
 
 <div align="center">
+  <sup>技術</sup>
+  <h3>Stack</h3>
 
-### ありがとうございました ✨
-
-_Thank you for visiting my profile!_
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,php,postgres&theme=dark" alt="languages" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite&theme=dark" alt="frameworks" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,photoshop&theme=dark" alt="tools" />
+</div>
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=sogki&style=for-the-badge&color=8A2BE2" alt="Profile Views" />
-
-<img src="https://img.shields.io/badge/Made_with-❤️_and_☕-8A2BE2?style=for-the-badge" />
-
-<br />
-<br />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&size=18&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Happy+coding!+💜;Let's+build+something+amazing!+✨;一緒に頑張りましょう!" alt="Footer Typing SVG" />
-
+<div align="center">
+  <sub>ありがとうございました · thanks for stopping by</sub>
+  <br /><br />
 </div>
