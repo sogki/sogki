@@ -39,7 +39,6 @@ Based in the United Kingdom. Open to creative collaborations and production buil
 
 - **[Binderly](https://binderlytcg.com)** — Pokémon TCG binder & collection platform with live pricing and community features
 - **[ARCPedia](https://arcpedia.net)** — Event tracker, interactive maps, item database, and raid planner
-- **[TikTok Live API](https://api.50andbad.site)** — Developer API for live status, viewer counts, and keyed access
 
 <br />
 
