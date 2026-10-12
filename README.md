@@ -1,6 +1,7 @@
+
 <div align="center">
   <img
-    src="https://i.pinimg.com/1200x/87/34/ba/8734badeb97842541cf0b12881ca34b5.jpg"
+    src="https://vwdrdqkzjkfdmycomfvf.supabase.co/storage/v1/object/public/sog-stuff/736ef04d-4aa6-4da3-944d-d57b4fb84442_upscayl_1x_upscayl-standard-4x%20-%20Copy.png"
     alt="Umbreon"
     width="860"
   />
@@ -47,12 +48,12 @@ Based in the United Kingdom. Open to creative collaborations and production buil
   <h3>Analytics</h3>
 
   <img
-    src="https://github-stats-extended.vercel.app/api?username=sogki&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=E6C35C&icon_color=E6C35C&text_color=A1A1A1&ring_color=E6C35C&hide=issues&include_all_commits=true&count_private=true"
+    src="https://github-stats-extended.vercel.app/api?username=sogki&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=EF4444&icon_color=EF4444&text_color=A1A1A1&ring_color=EF4444&hide=issues&include_all_commits=true&count_private=true"
     height="158"
     alt="stats"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=sogki&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=E6C35C&text_color=A1A1A1&langs_count=6"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=sogki&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=EF4444&text_color=A1A1A1&langs_count=6"
     height="158"
     alt="languages"
   />
@@ -60,7 +61,7 @@ Based in the United Kingdom. Open to creative collaborations and production buil
   <br />
 
   <img
-    src="https://streak-stats.demolab.com/?user=sogki&hide_border=true&background=0A0A0A&stroke=E6C35C&ring=E6C35C&fire=E6C35C&currStreakLabel=E6C35C&sideLabels=A1A1A1&dates=6B6B6B&currStreakNum=E6C35C&sideNums=A1A1A1"
+    src="https://streak-stats.demolab.com/?user=sogki&hide_border=true&background=0A0A0A&stroke=EF4444&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&sideLabels=A1A1A1&dates=6B6B6B&currStreakNum=EF4444&sideNums=A1A1A1"
     alt="streak"
   />
 </div>
@@ -83,4 +84,3 @@ Based in the United Kingdom. Open to creative collaborations and production buil
 <div align="center">
   <sub>ありがとうございました · thanks for stopping by</sub>
   <br /><br />
-</div>
